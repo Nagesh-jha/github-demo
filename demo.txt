@@ -1,1 +1,4 @@
 Adding new file into git adding update
+Adding new file into git
+
+Adding from git
